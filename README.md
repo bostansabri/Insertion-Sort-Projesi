@@ -1,5 +1,5 @@
 # Insertion-Sort-Projesi
-Proje 1
+Proje 1 / www.patika.dev
 
 [22,27,16,2,18,6]-> Insertion Sort
 
